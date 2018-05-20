@@ -6,7 +6,8 @@ An excellent starting point for those wishing to jump into ML and DL. Here I rep
 
 ## Regression
 
-Linear and quadratic regression.
+<ul><li>Linear and quadratic regression.</li>
+    <li>Multivariate linear regression with Keras [a really efficient frontend for TF]</ul>
 
 ## Classification
 
